@@ -1,16 +1,30 @@
-## Hi there 👋
+# 你好，我是 Aitor 👋
 
-<!--
-**Aitor-236/Aitor-236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
 
-Here are some ideas to get you started:
+```json
+{
+  "name": "Aitor",
+  "status": "Student",
+  "email": "aitor.x@outlook.com",
+  "website": "https://aitor.top",
+  "group": {
+    "name": "参天巨树",
+    "number": "589854569"
+  },
+  "location": {
+    "school": "Minjiang University"
+  },
+  "major": "Computer Science and Technology",
+  "interests": ["Programming", "Gaming", "Anime"],
+  "personality": "Unknown"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**　☕ Java / 🔷 TypeScript / 🟨 JavaScript  
+**Frontend**　🟢 Vue / ⚛️ React  
+**Backend & Data**　🍃 Spring Boot / ➕ MyBatis-Plus / 🐬 MySQL  
+**Tools**　🟩 Node.js / 🐳 Docker / ⬡ Nginx / ⚙️ GitHub Actions
+
+- [ACove](https://github.com/Aitor-236/ACove)：文章、图库与个人空间的载体。
+
