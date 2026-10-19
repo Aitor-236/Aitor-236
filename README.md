@@ -1,7 +1,5 @@
 # 你好，我是 Aitor 👋
 
-计算机科学与技术专业学生，喜欢编程、游戏和二次元。
-
 [aitor.top ↗](https://aitor.top) · [Email](mailto:aitor.x@outlook.com) · QQ 群：**参天巨树**（589854569）
 
 ## About me
